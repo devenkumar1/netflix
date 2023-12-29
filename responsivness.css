@@ -62,6 +62,9 @@
     top: 21%;
     left: 13%;
   }
+   .home-veiw {
+    margin-top: 8rem;
+  }
 
   .right-section-4 video {
     overflow: hidden;
@@ -112,10 +115,16 @@
   .kids-img {
     width: 100%;
   }
+  .home-veiw {
+    margin-top: 5rem;
+  }
 }
 @media (max-width: 250px) {
   form {
     max-width: 30%;
     padding-right: 1rem;
+  }
+   .home-veiw {
+    margin-top: 3rem;
   }
 }
